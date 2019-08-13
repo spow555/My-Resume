@@ -1,0 +1,56 @@
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.main {
+  position: relative;
+  background-color: #b0f4e6;
+  margin: 0 auto;
+}
+
+.pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.cloud {
+  width: 150px;
+  height: 90px;
+  vertical-align: middle;
+  padding-left: 50px;
+
+}
+
+h1 {
+  width: 200px;
+  height: 37px;
+  position: relative;
+  font: italic bold 25px/2 cursive;
+}
+
+p {
+  margin-top: 0;
+  width: 360px;
+  height: 18px;
+
+}
+
+.top {
+  align-items: center;
+  background-color: #fcf9ec;
+}
+
+.bottom {
+  right: auto;
+  background-color: #12d3cf;
+  }
+
+.cloud2 {
+  width: auto;
+  padding-left: 75%;
+}
